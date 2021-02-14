@@ -10,6 +10,10 @@ weight = 1
 Delicious bagels ready to be topped with cream cheese.
 <!--more-->
 
+# Overview
+
+Yield: 8 bagels
+
 # Ingredients
 
 * **6g** active dry yeast
@@ -31,7 +35,7 @@ Delicious bagels ready to be topped with cream cheese.
 10. Add toppings
 11. Bake for 20-25 minutes until golden brown
 
-# Source
+# Sources
 https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/
 
 # Images

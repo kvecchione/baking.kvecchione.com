@@ -10,6 +10,10 @@ weight = 1
 Soft, rich Brioche bread loaves
 <!--more-->
 
+# Overview
+
+Yield: 2 loaves
+
 # Ingredients
 
 * **.5 cup** warm milk
@@ -43,11 +47,11 @@ Soft, rich Brioche bread loaves
 17. Bake until internal temperature reaches 190&deg;F
 18. Remove from oven, let cool for 5 minutes, then flip the load out of the pan and cool on wire rack.
 
-# Source
+# Sources
 https://www.theflavorbender.com/brioche-bread-recipe/
 
 # Images
-{{<figure src="/img/brioche1.jpg" link="/img/brioche1.jpg" alt="pretzel1" height="300px">}}
-{{<figure src="/img/brioche2.jpg" link="/img/brioche2.jpg" alt="pretzel2" height="300px">}}
-{{<figure src="/img/brioche3.jpg" link="/img/brioche3.jpg" alt="pretzel2" height="300px">}}
-{{<figure src="/img/brioche4.jpg" link="/img/brioche4.jpg" alt="pretzel2" height="300px">}}
+{{<figure src="/img/brioche1.jpg" link="/img/brioche1.jpg" alt="brioche1" height="300px">}}
+{{<figure src="/img/brioche2.jpg" link="/img/brioche2.jpg" alt="brioche2" height="300px">}}
+{{<figure src="/img/brioche3.jpg" link="/img/brioche3.jpg" alt="brioche3" height="300px">}}
+{{<figure src="/img/brioche4.jpg" link="/img/brioche4.jpg" alt="brioche4" height="300px">}}
