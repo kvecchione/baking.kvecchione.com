@@ -10,6 +10,10 @@ weight = 1
 I adapted a recipe from Alton Brown to make some delicious pretzels. They didn't last very long!
 <!--more-->
 
+# Overview
+
+Yield: 8 medium-sized pretzels
+
 # Ingredients
 
 * **1.5 cups** warm water
@@ -40,7 +44,7 @@ I adapted a recipe from Alton Brown to make some delicious pretzels. They didn't
 12. Bake 12-14 minutes at 450&deg;F
 13. Cool for 5 minutes before eating
 
-# Source
+# Sources
 https://www.foodnetwork.com/recipes/alton-brown/homemade-soft-pretzels-recipe-1948242
 
 # Adaptations
