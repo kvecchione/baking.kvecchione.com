@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on On The Rise</title>
+    <link>https://baking.kvecchione.com/post/</link>
+    <description>Recent content in Posts on On The Rise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://baking.kvecchione.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NY Style Bagels</title>
+      <link>https://baking.kvecchione.com/post/bagels/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baking.kvecchione.com/post/bagels/</guid>
+      <description>&lt;p&gt;Delicious bagels ready to be topped with cream cheese.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brioche</title>
+      <link>https://baking.kvecchione.com/post/brioche/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://baking.kvecchione.com/post/brioche/</guid>
+      <description>&lt;p&gt;Soft, rich Brioche bread loaves&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Soft Pretzels</title>
+      <link>https://baking.kvecchione.com/post/soft-pretzels/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://baking.kvecchione.com/post/soft-pretzels/</guid>
+      <description>&lt;p&gt;I adapted a recipe from Alton Brown to make some delicious pretzels. They didn&amp;rsquo;t last very long!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
