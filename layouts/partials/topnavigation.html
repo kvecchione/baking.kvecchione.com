@@ -1,0 +1,43 @@
+<div class='container'>
+
+  <div id="menu-secondary" class="menu-container menu-secondary" role="navigation">
+    <button id="toggle-secondary-navigation" class="toggle-secondary-navigation"><i class="fas fa-plus"></i></button>
+
+    <div class="menu">
+
+      <!-- <ul id="menu-secondary-items" class="menu-secondary-items">
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+          <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+        </li>
+        {{ end }}
+
+      </ul> -->
+
+    </div>
+
+  </div>
+
+
+  <ul class="social-media-icons">
+
+    {{ with .Site.Params.social.github }}
+    <li>
+      <a href="{{ . }}" data-animate-hover="pulse" class="github" target="_blank">
+        <i class="fab fa-github" title="github"></i>
+        <span class="screen-reader-text">github</span>
+      </a>
+    </li>
+    {{end}}
+
+    {{ if .Site.Params.social.rss }}
+    <li>
+      <a href="{{ .Site.RSSLink }}" data-animate-hover="pulse" class="rss" target="_blank">
+        <i class="fas fa-rss" title="rss"></i>
+        <span class="screen-reader-text">rss</span>
+      </a>
+    </li>
+    {{end}}
+
+
+  </ul></div>
