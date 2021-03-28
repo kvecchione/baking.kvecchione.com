@@ -47,5 +47,6 @@ Yield: 2 (big) loaves
 https://www.browneyedbaker.com/white-bread-recipe/
 
 # Images
+{{<figure src="/img/white-bread1.jpg" link="/img/white-bread1.jpg" alt="white-bread1" height="300px">}}
 {{<figure src="/img/white-bread2.jpg" link="/img/white-bread2.jpg" alt="white-bread2" height="300px">}}
 {{<figure src="/img/white-bread3.jpg" link="/img/white-bread3.jpg" alt="white-bread3" height="300px">}}
