@@ -16,22 +16,23 @@ Yield: 4 16" pizzas
 
 # Ingredients
 
-* **796g** Caputo Farina 00 flour (6cup)
-* **493g** lukewarm water (2.25cup)
-* **3.5g** instant dry yeast (1tsp)
-* **15.6g** salt (2.5tsp)
-* **7.8g** sugar (2tsp)
-* **11.8ml** olive oil (1tbsp)
+* **800g** Caputo Farina 00 flour
+* **.5tsp** instant dry yeast (.5 tsp)
+* **2.5tsp** kosher salt
+* **2tsp** sugar
+* **500g** lukewarm water
+* **1tbsp** olive oil
 
 # Steps
 1. In mixer, mix flour, salt, yeast, and sugar until well combined.
-2. Add in water, mix until incorporated
-3. Add in oil, knead for 5 minutes
-4. Knead again with dough hook for 3 minutes.
-5. Divide dough into 4 parts, transfer to oiled large resealable container(s) (tupperware)
-6. Move dough to refrigerator, best results with 48-72 hours of refrigerator rest
-7. When ready, remove dough from refrigerator 1 hour prior to use
-8. Gently stretch dough into 14-16 inch rounds, top with sauce, cheese, toppings, and bake at high heat in pizza oven.
+2. Add in water, mix until lightly incorporated
+3. Add in oil, knead with dough hook for 5 minutes
+4. Let rest in bowl for 10 minutes
+5. Knead again with dough hook for 3 minutes.
+6. Divide dough into 4 parts, transfer to oiled large resealable container(s) (tupperware)
+7. Move dough to refrigerator, best results with 48 hours of refrigerator rest
+8. When ready, remove dough from refrigerator 1 hour prior to use
+9. Gently stretch dough into 14-16 inch rounds, top with sauce, cheese, toppings, and bake at high heat in pizza oven.
 
 # Sources
 https://feelingfoodish.com/the-best-new-york-style-pizza-dough/
