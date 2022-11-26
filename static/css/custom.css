@@ -970,7 +970,7 @@ a img {
     clear: both;
     padding: 0;
     margin-bottom: 1.5em;
-    opacity: 0.8;
+    opacity: 1;
   }
   .excerpt .featured-image {
     -webkit-transform: translateZ(0);
