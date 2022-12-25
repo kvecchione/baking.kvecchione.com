@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/cinnamonbuns1.png"
+image = "img/cinnamonbuns4.jpg"
 date = "2022-11-26"
 title = "Cinnamon Buns"
 weight = 1
@@ -82,3 +82,4 @@ Note: Doubled filling as the original recipe did not have enough.
 {{<figure src="/img/cinnamonbuns3.png" link="/img/cinnamonbuns3.png" alt="cinnamonbuns3" height="300px">}}
 {{<figure src="/img/cinnamonbuns2.png" link="/img/cinnamonbuns2.png" alt="cinnamonbuns2" height="300px">}}
 {{<figure src="/img/cinnamonbuns1.png" link="/img/cinnamonbuns1.png" alt="cinnamonbuns1" height="300px">}}
+{{<figure src="/img/cinnamonbuns4.jpg" link="/img/cinnamonbuns4.jpg" alt="cinnamonbuns1" height="300px">}}
