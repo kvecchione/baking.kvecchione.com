@@ -7,7 +7,7 @@ title = "Focaccia"
 weight = 1
 +++
 
-Delicious focaccia to eat plain or to use as sandwich bread!
+Delectible focaccia to eat plain or to use as sandwich bread!
 <!--more-->
 
 # Overview

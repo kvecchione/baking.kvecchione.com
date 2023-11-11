@@ -7,7 +7,7 @@ title = "Croissant Bread"
 weight = 1
 +++
 
-Delicious, crispy layers of bread and butter!
+Crispy layers of bread and butter!
 <!--more-->
 
 # Overview
@@ -34,7 +34,6 @@ Yield: 5 thick slices
 
 # Steps
 
-## Dough
 1) Whisk together warm milk, yeast, and sugar in bowl of stand mixer, let sit covered for 5 minutes
 2) Add salt, butter, and 2 cups of flour, mix for 2 minutes
 3) Add remaining flour, mix until a soft dough forms
