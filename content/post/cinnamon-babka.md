@@ -73,3 +73,4 @@ https://prettysimplesweet.com/cinnamon-babka/
 # Images
 {{<figure src="/img/babka1.jpg" link="/img/babka1.jpg" alt="babka1" height="300px">}}
 {{<figure src="/img/babka2.jpg" link="/img/babka2.jpg" alt="babka2" height="300px">}}
+{{<figure src="/img/babka3.jpg" link="/img/babka2.jpg" alt="babka2" height="300px">}}
